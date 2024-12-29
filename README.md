@@ -1,1 +1,1 @@
-# Golang API wrapper client for https://politi.dk/doegnrapporter
+# Go client for fetching reports from https://politi.dk/doegnrapporter
